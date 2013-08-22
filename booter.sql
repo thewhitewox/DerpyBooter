@@ -102,7 +102,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`ID`, `username`, `password`, `email`, `uid`, `valid`) VALUES
-(1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'thewhitewox@gmail.com', 959991, 1);
+(1, 'admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'niqnoq@gmail.com', 959991, 1);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
